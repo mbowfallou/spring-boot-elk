@@ -1,0 +1,2025 @@
+{
+  "instant" : {
+    "epochSecond" : 1675530342,
+    "nanoOfSecond" : 187296400
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 6.2.5.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530342,
+    "nanoOfSecond" : 244306000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "Starting SpringBootElkApplication using Java 11.0.16.1 on Personal-PC with PID 11976 (C:\\Users\\MbowNgaala\\Documents\\Programmation\\IntelliJ\\ELK\\spring-boot-elk\\target\\classes started by MbowNgaala in C:\\Users\\MbowNgaala\\Documents\\Programmation\\IntelliJ\\ELK\\spring-boot-elk)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530342,
+    "nanoOfSecond" : 350312400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530342,
+    "nanoOfSecond" : 499582400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530342,
+    "nanoOfSecond" : 503580900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530343,
+    "nanoOfSecond" : 653015200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530343,
+    "nanoOfSecond" : 764396200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 93 ms. Found 2 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530344,
+    "nanoOfSecond" : 888171400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530344,
+    "nanoOfSecond" : 922172800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530344,
+    "nanoOfSecond" : 924172000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530344,
+    "nanoOfSecond" : 925171500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.71]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 87982100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 88170100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 2583 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 144172800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 368728000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 389865100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration",
+  "message" : "H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:elkDB'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 567720700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 686840700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 5.6.14.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530345,
+    "nanoOfSecond" : 961148900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.annotations.common.Version",
+  "message" : "HCANN000001: Hibernate Commons Annotations {5.1.2.Final}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.annotations.common.util.impl.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530346,
+    "nanoOfSecond" : 162574800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.dialect.Dialect",
+  "message" : "HHH000400: Using dialect: org.hibernate.dialect.H2Dialect",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530347,
+    "nanoOfSecond" : 276060000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530347,
+    "nanoOfSecond" : 289060400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 70447200
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 286581300
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+  "message" : "ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 404234300
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "18 mappings in 'requestMappingHandlerMapping'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 447233400
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.handler.SimpleUrlHandlerMapping",
+  "message" : "Patterns [/webjars/**, /**] in 'resourceHandlerMapping'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 464281700
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver",
+  "message" : "ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 648164300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 673360600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 704362200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530348,
+    "nanoOfSecond" : 723359000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "Started SpringBootElkApplication in 7.118 seconds (JVM running for 10.135)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530410,
+    "nanoOfSecond" : 996893300
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530410,
+    "nanoOfSecond" : 997618900
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530410,
+    "nanoOfSecond" : 998666100
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected StandardServletMultipartResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530410,
+    "nanoOfSecond" : 999615700
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected AcceptHeaderLocaleResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 618800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected FixedThemeResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 2644100
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@61fdbb46",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 3614200
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected org.springframework.web.servlet.support.SessionFlashMapManager@4d7f3965",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 3872800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 3872800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 5 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 17612300
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 25650200
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUsers()",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 346039700
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, application/xml;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 370303400
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [[AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, et (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530411,
+    "nanoOfSecond" : 395300500
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530954,
+    "nanoOfSecond" : 241922100
+  },
+  "thread" : "http-nio-8081-exec-4",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 52,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530954,
+    "nanoOfSecond" : 243923600
+  },
+  "thread" : "http-nio-8081-exec-4",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUsers()",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 52,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530954,
+    "nanoOfSecond" : 254936500
+  },
+  "thread" : "http-nio-8081-exec-4",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, application/xml;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 52,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530954,
+    "nanoOfSecond" : 257021700
+  },
+  "thread" : "http-nio-8081-exec-4",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [[AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, et (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 52,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675530954,
+    "nanoOfSecond" : 259934600
+  },
+  "thread" : "http-nio-8081-exec-4",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 52,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675531788,
+    "nanoOfSecond" : 3293900
+  },
+  "thread" : "http-nio-8081-exec-5",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 53,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675531788,
+    "nanoOfSecond" : 5297100
+  },
+  "thread" : "http-nio-8081-exec-5",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUsers()",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 53,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675531788,
+    "nanoOfSecond" : 14296100
+  },
+  "thread" : "http-nio-8081-exec-5",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, application/xml;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 53,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675531788,
+    "nanoOfSecond" : 15300400
+  },
+  "thread" : "http-nio-8081-exec-5",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [[AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, et (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 53,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675531788,
+    "nanoOfSecond" : 17306600
+  },
+  "thread" : "http-nio-8081-exec-5",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 53,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675532272,
+    "nanoOfSecond" : 153706800
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675532272,
+    "nanoOfSecond" : 397462700
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.beans.factory.support.DisposableBeanAdapter",
+  "message" : "Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de données est déjà fermée (pour désactiver la fermeture automatique à l'arrêt de la VM, ajoutez \"; DB_CLOSE_ON_EXIT = FALSE\" à l'URL db)\nDatabase is already closed (to disable automatic closing at VM shutdown, add \";DB_CLOSE_ON_EXIT=FALSE\" to the db URL) [90121-214]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675532272,
+    "nanoOfSecond" : 398849200
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675532272,
+    "nanoOfSecond" : 446827300
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546184,
+    "nanoOfSecond" : 786929400
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 6.2.5.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 24,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546184,
+    "nanoOfSecond" : 852011900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "Starting SpringBootElkApplication using Java 11.0.16.1 on Personal-PC with PID 18804 (C:\\Users\\MbowNgaala\\Documents\\Programmation\\IntelliJ\\ELK\\spring-boot-elk\\target\\classes started by MbowNgaala in C:\\Users\\MbowNgaala\\Documents\\Programmation\\IntelliJ\\ELK\\spring-boot-elk)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546184,
+    "nanoOfSecond" : 973014000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546185,
+    "nanoOfSecond" : 92194900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546185,
+    "nanoOfSecond" : 93255700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546187,
+    "nanoOfSecond" : 328211100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546187,
+    "nanoOfSecond" : 462211700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 106 ms. Found 2 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546188,
+    "nanoOfSecond" : 893207200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546188,
+    "nanoOfSecond" : 925206900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546188,
+    "nanoOfSecond" : 926206800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546188,
+    "nanoOfSecond" : 927206600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.71]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 88204700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 89374000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 3994 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 164207700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 423477100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 447312800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration",
+  "message" : "H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:elkDB'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546189,
+    "nanoOfSecond" : 808052400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546190,
+    "nanoOfSecond" : 40400700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 5.6.14.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546190,
+    "nanoOfSecond" : 797542900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.annotations.common.Version",
+  "message" : "HCANN000001: Hibernate Commons Annotations {5.1.2.Final}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.annotations.common.util.impl.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546191,
+    "nanoOfSecond" : 111665500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.dialect.Dialect",
+  "message" : "HHH000400: Using dialect: org.hibernate.dialect.H2Dialect",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546192,
+    "nanoOfSecond" : 630275700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546192,
+    "nanoOfSecond" : 646308800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546193,
+    "nanoOfSecond" : 446909700
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546193,
+    "nanoOfSecond" : 679889300
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+  "message" : "ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546193,
+    "nanoOfSecond" : 975470200
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "18 mappings in 'requestMappingHandlerMapping'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 60471100
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.handler.SimpleUrlHandlerMapping",
+  "message" : "Patterns [/webjars/**, /**] in 'resourceHandlerMapping'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 93471100
+  },
+  "thread" : "restartedMain",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver",
+  "message" : "ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 370473000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 403561500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 453545900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546194,
+    "nanoOfSecond" : 475468900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.SpringBootElkApplication",
+  "message" : "Started SpringBootElkApplication in 10.563 seconds (JVM running for 14.232)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 781702000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 782704800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 783704500
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected StandardServletMultipartResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 784704200
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected AcceptHeaderLocaleResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 785704400
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected FixedThemeResolver",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 788705200
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@3908177c",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 789707400
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Detected org.springframework.web.servlet.support.SessionFlashMapManager@73aaac46",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 790701000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 792704300
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 9 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 819699800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546239,
+    "nanoOfSecond" : 837700800
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUsers()",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 338048700
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 370044000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [[AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, et (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 407046000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 57,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 725643900
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/favicon.ico\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 734947700
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.handler.SimpleUrlHandlerMapping",
+  "message" : "Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 743344400
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.resource.ResourceHttpRequestHandler",
+  "message" : "Resource not found",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 744214200
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 404 NOT_FOUND",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 753213200
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "\"ERROR\" dispatch for GET \"/error\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 757213500
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 781212200
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [image/avif, image/webp, image/apng, image/svg+xml, image/*, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 782213500
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor",
+  "message" : "Writing [{timestamp=Sat Feb 04 21:30:40 UTC 2023, status=404, error=Not Found, message=No message available,  (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675546240,
+    "nanoOfSecond" : 828213100
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Exiting from \"ERROR\" dispatch, status 404",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547729,
+    "nanoOfSecond" : 649973400
+  },
+  "thread" : "http-nio-8081-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users/100\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 59,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547729,
+    "nanoOfSecond" : 652018900
+  },
+  "thread" : "http-nio-8081-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUser(int)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 59,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547729,
+    "nanoOfSecond" : 696937000
+  },
+  "thread" : "http-nio-8081-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 59,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547729,
+    "nanoOfSecond" : 696937000
+  },
+  "thread" : "http-nio-8081-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, eta (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 59,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547729,
+    "nanoOfSecond" : 698998000
+  },
+  "thread" : "http-nio-8081-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 59,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 840277900
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users/1000\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 842277100
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUser(int)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 864612300
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "ERROR",
+  "loggerName" : "com.groupeisi.config.LoggingAspect",
+  "message" : "Exception in com.groupeisi.controller.AppUserRestController.getAppUser() with message = Requested User with id = 1 000 does not exist",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 865582300
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver",
+  "message" : "Using @ExceptionHandler com.groupeisi.exception.APIExceptionHandler#handlerEntityNotFoundException(EntityNotFoundException)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 878581200
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 887583700
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor",
+  "message" : "Writing [APIException(message=Requested User with id = 1 000 does not exist, status=404 NOT_FOUND, timestamp= (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 892806800
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver",
+  "message" : "Resolved [EntityNotFoundException(message=Requested User with id = 1 000 does not exist)]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547753,
+    "nanoOfSecond" : 893583200
+  },
+  "thread" : "http-nio-8081-exec-6",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 404 NOT_FOUND",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 62,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547786,
+    "nanoOfSecond" : 959144900
+  },
+  "thread" : "http-nio-8081-exec-7",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "GET \"/elk/users/100\", parameters={}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547786,
+    "nanoOfSecond" : 962150800
+  },
+  "thread" : "http-nio-8081-exec-7",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping",
+  "message" : "Mapped to com.groupeisi.controller.AppUserRestController#getAppUser(int)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547786,
+    "nanoOfSecond" : 968146000
+  },
+  "thread" : "http-nio-8081-exec-7",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547786,
+    "nanoOfSecond" : 968146000
+  },
+  "thread" : "http-nio-8081-exec-7",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor",
+  "message" : "Writing [AppUser(id=100, nom=Fallou, prenom=MBOW, adresse=Maristes, email=fmbow@gmail.com, password=pass, eta (truncated)...]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675547786,
+    "nanoOfSecond" : 970147300
+  },
+  "thread" : "http-nio-8081-exec-7",
+  "level" : "DEBUG",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed 200 OK",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675548149,
+    "nanoOfSecond" : 73252300
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 26,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675548149,
+    "nanoOfSecond" : 330846100
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.beans.factory.support.DisposableBeanAdapter",
+  "message" : "Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de données est déjà fermée (pour désactiver la fermeture automatique à l'arrêt de la VM, ajoutez \"; DB_CLOSE_ON_EXIT = FALSE\" à l'URL db)\nDatabase is already closed (to disable automatic closing at VM shutdown, add \";DB_CLOSE_ON_EXIT=FALSE\" to the db URL) [90121-214]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 26,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675548149,
+    "nanoOfSecond" : 331841300
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 26,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}
+{
+  "instant" : {
+    "epochSecond" : 1675548149,
+    "nanoOfSecond" : 356650600
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 26,
+  "threadPriority" : 5,
+  "service" : "spring-boot-elk"
+}

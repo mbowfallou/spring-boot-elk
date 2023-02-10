@@ -1,0 +1,40 @@
+server:
+  port: 8081
+    
+spring:
+  application:
+    name: ELK-SERVICE
+  datasource:
+    url: jdbc:h2:mem:elkDB # Or url: jdbc:h2:file:/data/demo (persist data)
+    driverClassName: org.h2.Driver
+    username: sa
+    password: password
+  h2:
+    console:
+      enabled: true # http://localhost:8080/h2-console
+      path: /h2-console
+  jpa:
+    spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    defer-datasource-initialization: true
+  # Modification pour le caching
+  redis:
+    host: localhost
+    port: 6379
+    cache:
+      redis:
+        cache-null-values: false
+        time-to-live: 40000
+      type: redis
+
+# Le Logging
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
